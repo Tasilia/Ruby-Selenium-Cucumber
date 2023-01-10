@@ -1,6 +1,5 @@
 =begin
 Цыганкова Анастасия
-Тестовое задание для IChooseAlfa
 Расчет ежемесячного платежа на сайте https://calcus.ru/kalkulyator-ipoteki
 =end
 
